@@ -2,7 +2,7 @@
   "name" : "jean79/yested_fw",
   "sourceUrl" : "https://github.com/jean79/yested_fw",
   "mavenMetaUrl" : "",
-  "platform" : "JVM",
+  "platform" : "JS",
   "category" : "library",
-  "tags" : [ "web" ]
+  "tags" : [ "frontend", "reactive", "web" ]
 }
